@@ -1,0 +1,14 @@
+{
+  "name": "projeto-teste",
+  "version": "1.0.0",
+  "description": "Projeto teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Gi",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  }
+}
