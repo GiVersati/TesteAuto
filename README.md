@@ -1,0 +1,2 @@
+# TesteAuto
+Projeto teste automatizado
